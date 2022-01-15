@@ -5,12 +5,12 @@
 <h3>STUDENT && PROGRAMMER && WEB DEVLOPER&DESIGNER && FUTURE CEH</h3>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Node.js,Vue.js
-- 👯 I’m looking to collaborate on ...<b>Open source Community</b>
+- 🔭 I’m currently working on ...open source projects
+- 🌱 I’m currently learning ...Node.js,react.js
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...My Gf
+- 💬 Ask me about ...
 - 📫 How to reach me: ...**recruitankitnegi2023@gmail.com**
-- 😄 Pronouns: ...anything but just make a PR of that name
+- 😄 Pronouns: ...anything but just make a PoolReq of that name
 - ⚡ Fun fact: ... 
 
