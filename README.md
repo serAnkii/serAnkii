@@ -2,7 +2,7 @@
 
 
   - >  ### I'm **Ankit Negi** 
-  - >  ### STUDENT && PROGRAMMER && FULL STACK WEB DEVELOPER
+  - >  ### STUDENT && PROGRAMMER && FULL STACK WEB DEVELOPER WITH THE KNOWLEDGE OF DEVOPS
   - >  ### [Some more about me](https://bio.link/serAnkii/)
  
  ***
