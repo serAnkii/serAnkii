@@ -4,7 +4,8 @@
   </a>
 </h1>
 
-- >  ### [Some more about me](https://bio.link/serAnkii/)
+- > ### Sometimes I make things. Sometimes they work.
+- > ### [Some more about me](https://bio.link/serAnkii/)
  
  ***
 [![serAnkii's GitHub stats](https://github-readme-stats.vercel.app/api?username=serAnkii&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/serAnkii/serAnkii/blob/main/README.md)
