@@ -11,4 +11,4 @@
  ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serAnkii&count_private=true)](https://github.com/serAnkii/)
 
-![](https://github.com/serAnkii/serAnkii/blob/output/github-contribution-grid-snake.svg)
+# Currently Working in SkillHub : A community driven social media app tailored specially for working professionals. See Sneak peeks in pinned repo :->
