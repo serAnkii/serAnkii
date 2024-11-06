@@ -1,2 +1,3 @@
-- # tell me about yourself 
-> I am ankit negi , i have done my graduation in b.tech computer science and enginnering in 2023 , i have developed a strong foundation in technical skills such as programming .data structures and software development 
+- # Tell me about yourself 
+> I am ankit Negi, I graduated with a B.tech in computer science and engineering in 2023, and I have developed a strong foundation in technical skills such as programming data structures and software development. I have worked on several projects such as social media apps and e-commerce sites. 
+> Although my background is in computer science, I am very interested in this industry because I enjoy interacting with people and solving their problems. I believe that my technical skills can be an asset in understanding and resolving  customer issues efficiently. Additionally my experience with project management and teamwork with TS-foundation NGO has equipped me with strong communication skills and 
